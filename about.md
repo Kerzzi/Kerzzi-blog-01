@@ -43,6 +43,7 @@ header-img: "img/green.jpg"
 - [Caos](http://caos.me)
 - [BuzhiNote](http://BuzhiNote.com)
 - [Azeril](http://azeril.me)
+- [陈素封](http://azeril.me)
 
 ### 联系
 
@@ -54,7 +55,7 @@ header-img: "img/green.jpg"
 
 - [Twitter@kerzzi123](https://twitter.com/kerzzi123)
 
-- 公众号：kerzzi
+- [公众号：kerzzi](https://mp.weixin.qq.com/profile?src=3&timestamp=1501078455&ver=1&signature=wreVDWABu*hNBOsRQxrCbRlBioKOaed76LJ9Q3bZaAm9FLvjK6A0mtfKqGB7StXtLsxozQxAVSp3uocxpTFrtg==)
 
 
 <center>
