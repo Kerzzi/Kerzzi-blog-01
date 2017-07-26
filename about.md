@@ -58,5 +58,6 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img width="300px" hight="300px" src="https://ww3.sinaimg.cn/large/006tKfTcgy1fhxn12f8wrj30u80u2dim.jpg" align="center"></p>
+    <p><img width="300px" hight="300px" src="https://ww2.sinaimg.cn/large/006tKfTcgy1fhxnasz3c6j30by0by74i.jpg" align="center"></p>
+    <p align="center">微信扫一扫，关注公众号</p>
 </center>
