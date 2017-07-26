@@ -6,9 +6,9 @@ header-img: "img/green.jpg"
 ---
 
 
-<center>
+<!-- <center>
     <p><img src="https://ww3.sinaimg.cn/large/006tKfTcgy1fhxmsbqfqsj30sg0ordhq.jpg" align="center"></p>
-</center>
+</center> -->
 
 我是柯子，每天千字践行者，感谢这段经历，让我成为了现在的我。
 
@@ -58,5 +58,5 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="https://ww3.sinaimg.cn/large/006tKfTcgy1fhxn12f8wrj30u80u2dim.jpg" align="center"></p>
+    <p><img width="300px" hight="300px" src="https://ww3.sinaimg.cn/large/006tKfTcgy1fhxn12f8wrj30u80u2dim.jpg" align="center"></p>
 </center>
