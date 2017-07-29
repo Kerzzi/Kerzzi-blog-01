@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: "好好学习，天天向上"
 header-img: "img/green.jpg"
 ---
 
@@ -10,17 +10,15 @@ header-img: "img/green.jpg"
     <p><img src="https://ww3.sinaimg.cn/large/006tKfTcgy1fhxmsbqfqsj30sg0ordhq.jpg" align="center"></p>
 </center> -->
 
-我是柯子，每天千字践行者，感谢这段经历，让我成为了现在的我。
+叫我柯子就好。
 
 现在研习 **认知写作** 。
 
 ### 坚信
 
-
+- 好好学习，天天向上
 - 元认知乃一切之源
-- 学苟知本，六经皆我注脚
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
+- 写就是最好的回报
 
 
 ### 关注：
@@ -39,11 +37,7 @@ header-img: "img/green.jpg"
 
 ### 我的朋友们
 
-- [YiLee](http://yilee.me)
-- [Caos](http://caos.me)
-- [BuzhiNote](http://BuzhiNote.com)
-- [Azeril](http://azeril.me)
-- [陈素封](http://azeril.me)
+- mark
 
 ### 联系
 
