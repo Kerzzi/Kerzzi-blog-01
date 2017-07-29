@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "好好学习，天天向上"
+description: "仰望星空，脚踏实地"
 header-img: "img/green.jpg"
 ---
 
