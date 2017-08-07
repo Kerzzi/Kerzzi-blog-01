@@ -1,11 +1,11 @@
 ---
 layout: post
-title: '【教程】Markdown'
+title: '教程|Markdown'
 date: 2017-02-09 21:15
 comments: true
-categories: 
+categories:
 ---
-Hi, This a demo post of [Logdown](http://logdown.com). 
+Hi, This a demo post of [Logdown](http://logdown.com).
 
 Logdown use Markdown as main syntax, you can find more example by reading this [document on Wikipedia](http://en.wikipedia.org/wiki/Markdown)
 
