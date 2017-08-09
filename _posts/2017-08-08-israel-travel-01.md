@@ -94,7 +94,7 @@ _这在耶路撒冷的警察_
 据我们的导游说，以色列除了教徒、阿拉伯人之外，其他人员都是要服兵役的，而且士兵服兵役期间是可以回家住的。
 
 由于贝尔谢巴夜晚过于冷清，我们很早就回到了酒店。很幸运是遇到了当地人正在酒店后院举行婚礼，婚礼没有限制他人参加，虽然听不懂他们在说什么，但可以感受到现场喜气洋洋的气氛。
-
+ 
  ![](https://ww4.sinaimg.cn/large/006tNc79gy1ficiif9wytj31kw16o4j5.jpg)
  ![](https://ww3.sinaimg.cn/large/006tNc79gy1ficiioaz2yj31kw16oh4j.jpg)
  ![](https://ww2.sinaimg.cn/large/006tNc79gy1ficiiqq2d6j31kw16owwa.jpg)
