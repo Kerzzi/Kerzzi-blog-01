@@ -3,7 +3,7 @@ layout:     post                       # 使用的布局（不需要改）
 title:      复盘|什么是真正的财富自由                  # 标题
 subtitle:   你真的理解什么是“财富自由”吗？    #副标题
 date:       2017-08-07              # 时间
-author:     Kerzzi                         # 作者
+author:     Kerzzi                          # 作者
 header-img: img/zhihu.jpg     #这篇文章标题背景图片
 catalog: true                         # 是否归档
 tags:                                #标签
